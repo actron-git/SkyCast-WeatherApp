@@ -1,0 +1,16 @@
+
+  link
+
+  https://api.openweathermap.org/data/2.5/weather?q=Pune&appid=4a89a851ec4c1f1ae29707545c87fcdb
+
+
+api 
+
+
+b43b3b27c5f62abc0f6e949524278810
+
+
+thapa api link
+
+
+https://api.openweathermap.org/data/2.5/weather?q=pune,91&appid=b43b3b27c5f62abc0f6e949524278810
