@@ -1,6 +1,6 @@
 # SkyCast Web
 
-This is a weather app that provides real-time weather information.
+Weather app for real-time weather information using API.
 
 ![Weather App Screenshot](https://github.com/actron-git/Raw/blob/main/SkyCast.png)
 
